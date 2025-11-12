@@ -14,7 +14,7 @@ I'm particularly passionate about:
 
 ### Background
 
-- MS in Robotics @ Kwangwoon University (2020-2022)
+- MS in Robotics @ Kwangwoon University
   - Advisor: Prof. Yong-Hoon Choi
   - Research focus: Self-supervised Learning for Audio Representation
 
